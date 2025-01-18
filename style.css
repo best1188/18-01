@@ -1,0 +1,31 @@
+header{
+  background-color: rgb(0, 255, 255);
+  margin: 10px;  
+}
+
+body {
+    font-family: sans-serif;
+}
+header p{ 
+    font-family: Arial,Helvetica, sans-serif;
+}
+
+h1{
+  color: pink
+}
+
+footer{
+  background-color: darkgrey
+} 
+footer p{
+  border: 3px darkgrey solid;
+  background-color: white;
+} 
+
+nav a {
+  text-decoration: none;
+  margin: 20px;
+  border: 3px navy solid;
+  border-radius: 20px;
+  padding: 5px
+}
